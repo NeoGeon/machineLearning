@@ -1,5 +1,8 @@
+import numpy as np
 from models.lr import lr
-from data import train_loader, test_loader
+from data.data import Preprocess, Iris
+
+
 
 
 
