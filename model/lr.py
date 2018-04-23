@@ -1,8 +1,9 @@
 import numpy as np
 
 class lr:
-    def __init__():
-        pass
+    def __init__(self, feature, lable):
+        
+        
 
     def loss():
         pass
